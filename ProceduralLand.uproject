@@ -7,10 +7,7 @@
 		{
 			"Name": "ProceduralLand",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -22,11 +19,19 @@
 			]
 		},
 		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
 			"Name": "PCG",
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
 			"Enabled": true
 		}
 	]
