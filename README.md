@@ -1,4 +1,4 @@
-# Génération Procédurale de Terrains et Planètes
+# Génération Procédurale de Terrains et Planètes
 
 GPT-P est un projet fait sur Unreal Engine générant de manière procédurale des terrains et planètes.
 
